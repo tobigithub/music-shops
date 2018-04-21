@@ -6,8 +6,12 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * pluginbutique (https://www.pluginboutique.com/) - sales are rotating, come back often to get the best price; lots of free VST and music loops etc.
 * kvraudio (https://www.kvraudio.com/deals.php) - deals and news for the latest VST plugins for MAC, WIN, Linux
 * vstbuzz (https://vstbuzz.com/) - always two superdeals (60-80% off) on high-quality VSTs on top of the site, other older deals can be found in the store
+* bpb (https://bedroomproducersblog.com/) - deals and reviews on (free) music software
 * audioplugindeals (https://audioplugin.deals/) - timed deals each week
 * audiodeluxe (https://www.audiodeluxe.com/) - deals and bundle savings across all major vendors
+* dontcrack (http://www.dontcrack.com/) - audio software deals from many different brands
+* plugindiscounts (https://plugindiscounts.com/) - plugin discounts (requires login)
+* musicsoftwaredeals (https://www.reddit.com/r/musicsoftwaredeals/) - music software deals from reddit (> 1000 readers)
 
 **Instrument and content producers**
 * Native Instruments (https://www.native-instruments.com/) - NI has deals of their own products, but also partner deals with steep rebates around 50%; NI usually has sales with 50% off for Komplete in summer/thanksgivings/christmas.

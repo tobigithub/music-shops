@@ -2,6 +2,7 @@
 
 Deals on plugins, WAVs, loops, VST instruments and more
 
+
 **Websites**
 * pluginbutique (https://www.pluginboutique.com/) - sales are rotating, come back often to get the best price; lots of free VST and music loops etc.
 * kvraudio (https://www.kvraudio.com/deals.php) - deals and news for the latest VST plugins for MAC, WIN, Linux
@@ -23,6 +24,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * Catooh (http://www.catooh.com) - powered by MAGIX has one free download every (free media of the week) and deals and sales all the time; that includes thematic sound pools such as wav and ogg collections with ~1000 wavs.
 * Waves (https://www.waves.com/) - has perpetual sales going on, especially on holidays. Best strategy is to go for bundles (gold, platinum or signature series) when they are on sale (70-80% off). 
 * Magix (https://www.magix.com) - usually has deals along major holidays or discounted bundles.
+
 
 **Music Shops**
 * JRR Shop (https://www.jrrshop.com/features/specials/) - JRR has  a great newsletter for specials, really well designed, lots of interesting deals; JRR Shop does not spam, the special newsletter is coming out only once a month and it is worth to be signed up

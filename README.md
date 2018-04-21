@@ -10,8 +10,8 @@ Places to get deals on plugins, WAVs, loops, VST instruments and more
 
 **Instrument and content producers**
 * Native Instruments (https://www.native-instruments.com/) - NI has deals of their own products, but also partner deals with steep rebates around 50%; NI usually has sales with 50% off for Komplete in summer/thanksgivings/christmas.
-* Catooh (http://www.catooh.com) - powered by MAGIX has one free download every (free media of the week) and deals and sales all the time normally thematic sound pools such as wav and ogg collections
-* Waves (
+* Catooh (http://www.catooh.com) - powered by MAGIX has one free download every (free media of the week) and deals and sales all the time; that includes thematic sound pools such as wav and ogg collections with ~1000 wavs.
+* Waves (https://www.waves.com/) - has perpetual sales going on, especially on holidays. Best strategy is to go for bundles (gold, platinum or signature series) when they are on sale (70-80% off). 
 
 **Music Shops**
 * JRR Shop (https://www.jrrshop.com/features/specials/) - the have  a great newsletter for specials, really well designed, lots of interesting deals; JRR Shop does not spam, the special newsletter is coming out only once a month and is absolutley worth to be signed up

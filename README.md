@@ -12,6 +12,9 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * dontcrack (http://www.dontcrack.com/) - audio software deals from many different brands
 * plugindiscounts (https://plugindiscounts.com/) - plugin discounts (requires login)
 * musicsoftwaredeals (https://www.reddit.com/r/musicsoftwaredeals/) - music software deals from reddit (> 1000 readers)
+* bestservice (https://www.bestservice.com/index.html) - usually has deals around the whole year
+* time&space (http://www.timespace.com/) - time and space has software and sales and specials all the time
+
 
 **Instrument and content producers**
 * Native Instruments (https://www.native-instruments.com/) - NI has deals of their own products, but also partner deals with steep rebates around 50%; NI usually has sales with 50% off for Komplete in summer/thanksgivings/christmas.
@@ -19,7 +22,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * Waves (https://www.waves.com/) - has perpetual sales going on, especially on holidays. Best strategy is to go for bundles (gold, platinum or signature series) when they are on sale (70-80% off). 
 
 **Music Shops**
-* JRR Shop (https://www.jrrshop.com/features/specials/) - the have  a great newsletter for specials, really well designed, lots of interesting deals; JRR Shop does not spam, the special newsletter is coming out only once a month and is absolutley worth to be signed up
+* JRR Shop (https://www.jrrshop.com/features/specials/) - JRR has  a great newsletter for specials, really well designed, lots of interesting deals; JRR Shop does not spam, the special newsletter is coming out only once a month and it is absolutley worth to be signed up
 * Sweetwater (https://www.sweetwater.com/dealzone/) - deal zone, mostly matching prices on available deals
 
 .. thats it, enjoy.

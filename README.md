@@ -23,7 +23,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * Waves (https://www.waves.com/) - has perpetual sales going on, especially on holidays. Best strategy is to go for bundles (gold, platinum or signature series) when they are on sale (70-80% off). 
 
 **Music Shops**
-* JRR Shop (https://www.jrrshop.com/features/specials/) - JRR has  a great newsletter for specials, really well designed, lots of interesting deals; JRR Shop does not spam, the special newsletter is coming out only once a month and it is absolutley worth to be signed up
+* JRR Shop (https://www.jrrshop.com/features/specials/) - JRR has  a great newsletter for specials, really well designed, lots of interesting deals; JRR Shop does not spam, the special newsletter is coming out only once a month and it is worth to be signed up
 * Sweetwater (https://www.sweetwater.com/dealzone/) - deal zone, mostly matching prices on available deals
 
 .. thats it, enjoy.

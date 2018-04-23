@@ -25,6 +25,10 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * Waves (https://www.waves.com/) - has perpetual sales going on, especially on holidays. Best strategy is to go for bundles (gold, platinum or signature series) when they are on sale (70-80% off). 
 * Magix (https://www.magix.com) - usually has deals along major holidays or discounted bundles.
 
+** Reddit channels**
+* WeAreTheMusicMakers (https://www.reddit.com/r/WeAreTheMusicMakers) - discussions of all kinds of music making issues
+* AudioProductionDeals (https://www.reddit.com/r/AudioProductionDeals) - best deals on audio software plugins and hardware
+* musicsoftwaredeal (https://www.reddit.com/r/musicsoftwaredeals/) - general post about upcoming music software deals
 
 **Music Shops**
 * JRR Shop (https://www.jrrshop.com/features/specials/) - JRR has  a great newsletter for specials, really well designed, lots of interesting deals; JRR Shop does not spam, the special newsletter is coming out only once a month and it is worth to be signed up

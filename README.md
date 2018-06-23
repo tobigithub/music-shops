@@ -17,6 +17,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * time&space (http://www.timespace.com/) - time and space has software and sales and specials all the time
 * vst4free (http://VST4FREE.com) - good collection of free VST instruments, samplers, drum machines and other free music tools
 * gearslutz (https://www.gearslutz.com/) - website for all kinds of discussions and pro audio things
+* everyplugin (http://everyplugin.com/) - steep plugin discounts (requires login)
 
 
 **Instrument and content producers**

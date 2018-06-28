@@ -18,6 +18,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * vst4free (http://VST4FREE.com) - good collection of free VST instruments, samplers, drum machines and other free music tools
 * gearslutz (https://www.gearslutz.com/) - website for all kinds of discussions and pro audio things
 * everyplugin (http://everyplugin.com/) - steep plugin discounts (requires login)
+* rekkerd (https://rekkerd.org) - website for music production and reviews
 
 
 **Instrument and content producers**

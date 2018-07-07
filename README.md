@@ -19,6 +19,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * gearslutz (https://www.gearslutz.com/) - website for all kinds of discussions and pro audio things
 * everyplugin (http://everyplugin.com/) - steep plugin discounts (requires login)
 * rekkerd (https://rekkerd.org) - website for music production and reviews
+* vi-control (https://vi-control.net/community/forums/deals-deals-deals.138/) - deals on musicians helping musicians
 
 
 **Instrument and content producers**

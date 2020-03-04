@@ -20,6 +20,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * everyplugin (http://everyplugin.com/) - steep plugin discounts (requires login)
 * rekkerd (https://rekkerd.org) - website for music production and reviews
 * vi-control (https://vi-control.net/community/forums/deals-deals-deals.138/) - deals on musicians helping musicians
+* PluginFox (https://pluginfox.co/pages/deals) - VST deals from up north
 
 
 **Instrument and content producers**

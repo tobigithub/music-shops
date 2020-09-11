@@ -21,6 +21,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * rekkerd (https://rekkerd.org) - website for music production and reviews
 * vi-control (https://vi-control.net/community/forums/deals-deals-deals.138/) - deals on musicians helping musicians
 * PluginFox (https://pluginfox.co/pages/deals) - VST deals from up north
+* SampleLibraryReview (https://www.samplelibraryreview.com/) - Deal compressor with vast dealz
 
 
 **Instrument and content producers**

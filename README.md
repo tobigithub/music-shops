@@ -23,6 +23,8 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * PluginFox (https://pluginfox.co/pages/deals) - VST deals from up north
 * SampleLibraryReview (https://www.samplelibraryreview.com/) - Deal compressor with vast dealz
 * ProducerFeed (https://www.producerfeed.com/) - free deals, templates and VSTs
+* ComuterMusicJP (https://computermusic.jp/) - deals, deals, deals
+
 
 
 **Instrument and content producers**

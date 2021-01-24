@@ -24,6 +24,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * SampleLibraryReview (https://www.samplelibraryreview.com/) - Deal compressor with vast dealz
 * ProducerFeed (https://www.producerfeed.com/) - free deals, templates and VSTs
 * ComuterMusicJP (https://computermusic.jp/) - deals, deals, deals
+* Cakewalk CoffeeHouse (https://discuss.cakewalk.com/index.php?/forum/34-deals/) - Cakewalk Coffee House v2.0 deals
 
 
 

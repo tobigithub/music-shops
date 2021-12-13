@@ -26,6 +26,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 * ComuterMusicJP (https://computermusic.jp/) - deals, deals, deals
 * Cakewalk CoffeeHouse (https://discuss.cakewalk.com/index.php?/forum/34-deals/) - Cakewalk Coffee House v2.0 deals
 * FaceBook Free VST group (https://www.facebook.com/groups/freevstplugins/) - discussions, recommendations and free VSTs
+* PluginPicks (https://pluginpicks.com/) - VST and sample pack deals 
 
 
 

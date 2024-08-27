@@ -6,7 +6,7 @@ Deals on plugins, WAVs, loops, VST instruments and more
 **Websites**
 * pluginbutique (https://www.pluginboutique.com/) - sales are rotating, come back often to get the best price; lots of free VST and music loops etc.
 * kvraudio (https://www.kvraudio.com/deals.php) - deals and news for the latest VST plugins for MAC, WIN, Linux
-* vstbuzz (https://vstbuzz.com/) - always two superdeals (60-80% off) on high-quality VSTs on top of the site, other older deals can be found in the store
+* vstbuzz (https://vstbuzz.com/) - always two superdeals (60-80% off) on high-quality VSTs on top of the site - shut down in 2024
 * bpb (https://bedroomproducersblog.com/) - deals and reviews on (free) music software
 * audioplugindeals (https://audioplugin.deals/) - timed deals each week
 * audiodeluxe (https://www.audiodeluxe.com/) - deals and bundle savings across all major vendors
